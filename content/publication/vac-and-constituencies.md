@@ -38,7 +38,7 @@ projects = ["example-external-project"]
 #url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
-#url_dataset = "#"
+url_dataset = "https://doi.org/10.7910/DVN/29107"
 url_project = "#"
 #url_slides = "#"
 #url_video = "#"
@@ -48,7 +48,6 @@ url_project = "#"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-#url_custom = [{name = "Replication Data", url = "https://doi.org/10.7910/DVN/29107"}]
 url_custom = [{name = "Publisher Version", url = "http://journals.sagepub.com/doi/abs/10.1177/0738894215570428"}]
 
 # Does the content use math formatting?
