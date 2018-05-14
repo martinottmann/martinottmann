@@ -15,14 +15,19 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I have taught classes at the University of Birmingham, University of Hamburg, and University of Nottingham. My current teaching is focused on peace and conflict studies and social science research methods.
 
-I am a teaching instructor for the following courses at University X:
+Current courses:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- Research Design, Practice and Ethics (PhD, University of Birmingham)
+- Introduction to Causal Inference (PhD, University of Birmingham)
+
+Previous courses:
+
+- Post-Conflict Reconstruction and Development (MA, University of Birmingham, Spring 2017)
+- Conflict in Developing Countries (MA, University of Birmingham, 2016)
+- Rebel Governance in Civil Wars (BA, University of Hamburg, 2015)
+- Power-Sharing in Post-Conflict Situations (BA, University of Hamburg, 2013)
+- Global Security (BA, University of Nottingham, 2011)
+- Understanding Global Politics (BA, University of Nottingham, 2011)
+- Problems in Global Politics (BA, University of Nottingham, 2011)

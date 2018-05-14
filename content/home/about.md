@@ -31,6 +31,6 @@ weight = 5
 
 # Biography
 
-Martin Ottmann is a Birmingham Fellow in International Security at the University of Birmingham. His research interests civil wars, peace agreements, post-conflict development, and social science research methods.
+Martin Ottmann is a Birmingham Fellow in International Security at the University of Birmingham. His research interests include civil wars, peace agreements, post-conflict development, and social science research methods.
 
 He currently leads a project investigating the political economy of power-sharing in post-conflict countries, which is supported by a research grant from the German Research Foundation.
