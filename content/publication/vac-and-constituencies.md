@@ -49,7 +49,7 @@ url_project = "#"
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 url_custom = [{name = "Publisher Version", url = "http://journals.sagepub.com/doi/abs/10.1177/0738894215570428"}]
-url_custom = [{name = "Online Appendix", url = "preprints/rebel_constituencies_and_violence_against_civilians_appendix.pdf"}]
+#url_custom = [{name = "Online Appendix", url = "preprints/rebel_constituencies_and_violence_against_civilians_appendix.pdf"}]
 
 # Does the content use math formatting?
 math = true
