@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Civil Wars",
     "Peace Agreements",
-    "Post-Conflict Development"
+    "Post-Conflict Development",
     "Research Methods"
   ]
 
