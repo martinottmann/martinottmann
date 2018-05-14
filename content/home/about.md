@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-Martin Ottmann is a Lecturer and Birmingham Fellow in the International Development Department of the University of Birmingham. His current research interests include the political economy of post-conflict countries, power-sharing between government and rebels, and political violence during and after civil wars.
+Martin Ottmann is a Birmingham Fellow in the International Development Department of the University of Birmingham. His current research interests include the political economy of post-conflict countries, power-sharing between government and rebels, and political violence during and after civil wars.
