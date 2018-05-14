@@ -35,7 +35,7 @@ selected = true
 projects = ["example-external-project"]
 
 # Links (optional).
-#url_pdf = "#"
+url_pdf = "http://journals.sagepub.com/doi/abs/10.1177/0738894214542753"
 url_preprint = "preprints/PSED_data_feature_postprint_17june2014.pdf"
 #url_code = "#"
 url_dataset = "https://doi.org/10.7910/DVN/29656"
@@ -48,7 +48,6 @@ url_project = "#"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Publisher Version", url = "http://journals.sagepub.com/doi/abs/10.1177/0738894214542753"}]
 
 # Does the content use math formatting?
 math = true

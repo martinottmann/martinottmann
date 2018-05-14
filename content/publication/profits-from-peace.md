@@ -35,7 +35,7 @@ selected = true
 projects = ["example-external-project"]
 
 # Links (optional).
-#url_pdf = "#"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0305750X17302401"
 url_preprint = "preprints/pfp_manuscript_accepted.pdf"
 #url_code = "#"
 url_dataset = "https://doi.org/10.7910/DVN/CDTH6H"
@@ -48,7 +48,7 @@ url_project = "#"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Publisher Version", url = "https://www.sciencedirect.com/science/article/pii/S0305750X17302401"}]
+url_custom = [{name = "Online Appendix", url = "preprints/pfp_online_appendix.pdf"}]
 
 # Does the content use math formatting?
 math = true
