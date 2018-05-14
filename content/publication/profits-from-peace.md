@@ -36,7 +36,7 @@ projects = ["example-external-project"]
 
 # Links (optional).
 #url_pdf = "#"
-url_preprint = "static/files/pfp_manuscript_accepted.pdf"
+url_preprint = "preprints/pfp_manuscript_accepted.pdf"
 #url_code = "#"
 url_dataset = "https://doi.org/10.7910/DVN/CDTH6H"
 url_project = "#"
