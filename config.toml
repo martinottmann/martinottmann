@@ -54,21 +54,19 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Martin Ottmann"
+  role = "Birmingham Fellow in International Security"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "International Development Department, University of Birmingham", url = "https://www.birmingham.ac.uk/idd/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "m.ottmann@bham.ac.uk"
+  address = "Room 1136, Muirhead Tower, University of Birmingham, Birmingham, B15 2TT, United Kingdom"
+  office_hours = "Email for appointment"
+  phone = "+44 (0)121 415 1076"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
