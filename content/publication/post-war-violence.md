@@ -17,7 +17,7 @@ authors = ["M Ottmann"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Under Review*"
+publication = "*Under Review*"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

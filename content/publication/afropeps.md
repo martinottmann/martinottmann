@@ -1,6 +1,6 @@
 +++
 title = "Does Peace Trickle Down? Micro-Level Evidence from Africa"
-date = 2017-08-25T00:00:00
+date = 2018-04-03T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M Ottmann", "F Haass"]
@@ -17,7 +17,7 @@ authors = ["M Ottmann", "F Haass"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Under Review*"
+publication = "*Under Review*"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

@@ -8,13 +8,13 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Civil Wars",
-    "Peace Agreements",
-    "Post-Conflict Development",
-    "Research Methods"
-  ]
+#[interests]
+#  interests = [
+#    "Civil Wars",
+#    "Peace Agreements",
+#    "Post-Conflict Development",
+#    "Research Methods"
+#  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -31,4 +31,6 @@ weight = 5
 
 # Biography
 
-Martin Ottmann is a Birmingham Fellow in the International Development Department of the University of Birmingham. His current research interests include the political economy of post-conflict countries, power-sharing between government and rebels, and political violence during and after civil wars.
+Martin Ottmann is a Birmingham Fellow in International Security at the University of Birmingham. His research interests civil wars, peace agreements, post-conflict development, and social science research methods.
+
+He currently leads a project investigating the political economy of power-sharing in post-conflict countries, which is supported by a research grant from the German Research Foundation.

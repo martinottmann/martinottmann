@@ -17,7 +17,7 @@ authors = ["M Ottmann"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Conflict Management and Peace Science*, 34(1): 27-51"
+publication = "*Conflict Management and Peace Science*, 34(1): 27-51"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

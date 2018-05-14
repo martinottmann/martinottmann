@@ -17,7 +17,7 @@ authors = ["M Ottmann", "J Vüllers"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Harvard Dataverse*, V1"
+publication = "*Harvard Dataverse*, V1"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

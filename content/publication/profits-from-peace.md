@@ -17,7 +17,7 @@ authors = ["F Haass", "M Ottmann"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *World Development*, 99: 60-74"
+publication = "*World Development*, 99: 60-74"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
