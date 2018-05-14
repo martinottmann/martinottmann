@@ -48,7 +48,7 @@ url_project = "#"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-#url_custom = [{name = "Replication Data", url = "https://doi.org/10.7910/DVN/CDTH6H"}]
+url_custom = [{name = "Replication Data", url = "https://doi.org/10.7910/DVN/CDTH6H"}]
 url_custom = [{name = "Publisher Version", url = "https://www.sciencedirect.com/science/article/pii/S0305750X17302401"}]
 
 # Does the content use math formatting?
