@@ -22,12 +22,21 @@
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
+      <title>Rebel Constituencies and Rebel Violence Against Civilians in Civil Conflicts</title>
+      <link>/publication/vac-and-constituencies/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/vac-and-constituencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power-Sharing Event Dataset (PSED): A New Dataset on the Promises and Practices of Power-Sharing in Post-Conflict Countries</title>
+      <link>/publication/psed-data-feature/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/psed-data-feature/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>A Compromised Peace? The Effect of Power-Sharing Arrangements on Post-War Violence</title>
+      <link>/publication/post-war-violence/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/post-war-violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Peace Trickle Down? Micro-Level Evidence from Africa</title>
+      <link>/publication/afropeps/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/afropeps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Profits from Peace: The Political Economy of Power-Sharing and Corruption</title>
       <link>/publication/profits-from-peace/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -22,21 +40,30 @@
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
+      <title>Rebel Constituencies and Rebel Violence Against Civilians in Civil Conflicts</title>
+      <link>/publication/vac-and-constituencies/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/vac-and-constituencies/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      <title>The Power-Sharing Event Dataset (PSED): A New Dataset on the Promises and Practices of Power-Sharing in Post-Conflict Countries</title>
+      <link>/publication/psed-data-feature/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/psed-data-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Event Dataset (PSED)</title>
+      <link>/publication/psed-data/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/psed-data/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -11,6 +11,64 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Rebel Organization and Violence Against Civilians</title>
+      <link>/project/violence-against-civilians/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/violence-against-civilians/</guid>
+      <description>
+
+&lt;p&gt;This has been my PhD project which I completed in 2012 at the University of Nottingham. In my thesis, I examine the relationship between rebel organisation and violence against civilians in sub-Saharan Africa. I argue that rebels use such one-sided violence to enforce popular support when they are unable to secure support otherwise. An important determinant of this strategic use of violence is the rebels&amp;rsquo; organisational configuration. Organisational factors such as the ideology of a rebel group, the occurrence of leadership divisions, the level of fractionalisation within a rebel group&amp;rsquo;s population base, the existence of external support and the number of competing rebel factions determine whether non-violent strategies to secure support are available or whether rebels can only rely on violent means to enforce support. I test this theoretical model using both quantitative and qualitative methods. I conduct a statistical cross-sectional study analysing the relationship between rebel organisation and rebel one-sided violence in sub-Sahara Africa between 1989 and 2007. I also use qualitative within-case analyses of the Sudan People&amp;rsquo;s Liberation Movement/Army (SPLM/A) and the Sudan Liberation Movement/Army (SLM/A) to test whether these correlations are actually driven by the causal pathways outlined in my theoretical model.&lt;/p&gt;
+
+&lt;h1 id=&#34;while-both-case-studies-provide-supporting-evidence-for-this-they-also-uncover-that-the-causal-pathways-linking-leadership-divisions-to-rebel-violence-can-substantially-differ-from-each-other-moreover-the-qualitative-analysis-reveals-that-the-theoretical-model-only-partly-captures-the-causal-pathways-between-rebel-ideology-and-the-rebel-groups-population-base-and-the-level-of-one-sided-violence&#34;&gt;While both case studies provide supporting evidence for this, they also uncover that the causal pathways linking leadership divisions to rebel violence can substantially differ from each other. Moreover, the qualitative analysis reveals that the theoretical model only partly captures the causal pathways between rebel ideology and the rebel groups&amp;rsquo; population base and the level of one-sided violence.&lt;/h1&gt;
+
+&lt;h1 id=&#34;the-analysis-reveals-that-the-occurrence-of-leadership-divisions-increases-the-probability-of-an-onset-of-rebel-violence-against-civilians-i-also-find-that-ethno-nationalist-rebel-groups-kill-fewer-civilians-while-rebel-groups-who-draw-support-from-highly-fractionalised-population-bases-kill-more-civilians&#34;&gt;The analysis reveals that the occurrence of leadership divisions increases the probability of an onset of rebel violence against civilians. I also find that ethno-nationalist rebel groups kill fewer civilians while rebel groups who draw support from highly fractionalised population bases kill more civilians.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Event Dataset (PSED)</title>
+      <link>/project/psed/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/psed/</guid>
+      <description>&lt;p&gt;The Power-Sharing Event Dataset (PSED) contains information on the promises and practices of power-sharing between governments and rebels for a five-year period after the conclusion of a peace agreement (unless violence recurred earlier). The main features of this dataset are the specific focus on government-rebel dyads during post-conflict periods, an exact temporal mapping of implemented or abolished power-sharing events, and detailed descriptions for each power-sharing arrangement put into practice. This codebook describes the definitions of core concepts and operationalization of variables in this data collection. It also presents the PSED coding procedure. An explanation of the theoretical impetus behind the PSED as well as an in-depth discussion of its concepts can be found in the PSED data feature in Conflict Management and Peace Science (Ottmann and Vüllers 2014).&lt;/p&gt;
+
+&lt;p&gt;This project was funded by a research grant of the German Research Foundation. Collaborators are Andreas Mehler and Johannes Vüllers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Political Economy of Power-Sharing</title>
+      <link>/project/peps/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/peps/</guid>
+      <description>&lt;p&gt;How does power-sharing affect resource allocation between elites and constituencies in post-conflict situations? The question if and how power-sharing arrangements between a state government and former rebel groups actually change the distribution and exercise of political power in a post-conflict situation is rarely investigated. In this project, we argue that the type of power-sharing affects sub-national resource allocation patterns. Power-sharing provides an opportunity for former conflict actors to access state resources and distribute those resources strategically to their constituencies. Ultimately, this implies that power-sharing is less a tool for transforming political power (and thus addressing the root causes of social conflict), but an instrument that institutionalizes patronage opportunities. The project relies on the combination of quantitative and qualitative methods to substantiate these hypotheses: We first use statistical geo-spatial methods in order to investigate power-sharing as mechanism for sub-national resource redistribution to core constituencies. This analysis will make use of global data on post-conflict situations between 1992 and 2010. Central to this effort will be the creation of a novel dataset, the Geographical Dimensions of Power-Sharing Dataset (GDPS) which geo-locates the constituencies of all government and rebels in post-conflict situations. In a second step, we will conduct qualitative within-case analyses and in-depth process tracing of two post-conflict situations: Liberia and the Indonesian province of Aceh. This qualitative analysis will be based on field research in each post-conflict situation to better understand causal processes and scope conditions.&lt;/p&gt;
+
+&lt;p&gt;This project is funded by a research grant of the German Research Foundation. Collaborators are Andreas Mehler and Felix Haass.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Compromised Peace? The Effect of Power-Sharing Arrangements on Post-War Violence</title>
+      <link>/publication/post-war-violence/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/post-war-violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Peace Trickle Down? Micro-Level Evidence from Africa</title>
+      <link>/publication/afropeps/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/afropeps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Profits from Peace: The Political Economy of Power-Sharing and Corruption</title>
       <link>/publication/profits-from-peace/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -30,29 +88,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Rebel Constituencies and Rebel Violence Against Civilians in Civil Conflicts</title>
+      <link>/publication/vac-and-constituencies/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
+      <guid>/publication/vac-and-constituencies/</guid>
       <description></description>
     </item>
     
@@ -245,16 +285,6 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -303,13 +333,21 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      <title>The Power-Sharing Event Dataset (PSED): A New Dataset on the Promises and Practices of Power-Sharing in Post-Conflict Countries</title>
+      <link>/publication/psed-data-feature/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/psed-data-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Event Dataset (PSED)</title>
+      <link>/publication/psed-data/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/psed-data/</guid>
+      <description></description>
     </item>
     
   </channel>
