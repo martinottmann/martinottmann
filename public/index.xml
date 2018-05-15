@@ -11,34 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Rebel Organization and Violence Against Civilians</title>
-      <link>/project/violence-against-civilians/</link>
-      <pubDate>Tue, 15 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/project/violence-against-civilians/</guid>
-      <description>
-
-&lt;p&gt;This has been my PhD project which I completed in 2012 at the University of Nottingham. In my thesis, I examine the relationship between rebel organisation and violence against civilians in sub-Saharan Africa. I argue that rebels use such one-sided violence to enforce popular support when they are unable to secure support otherwise. An important determinant of this strategic use of violence is the rebels&amp;rsquo; organisational configuration. Organisational factors such as the ideology of a rebel group, the occurrence of leadership divisions, the level of fractionalisation within a rebel group&amp;rsquo;s population base, the existence of external support and the number of competing rebel factions determine whether non-violent strategies to secure support are available or whether rebels can only rely on violent means to enforce support. I test this theoretical model using both quantitative and qualitative methods. I conduct a statistical cross-sectional study analysing the relationship between rebel organisation and rebel one-sided violence in sub-Sahara Africa between 1989 and 2007. I also use qualitative within-case analyses of the Sudan People&amp;rsquo;s Liberation Movement/Army (SPLM/A) and the Sudan Liberation Movement/Army (SLM/A) to test whether these correlations are actually driven by the causal pathways outlined in my theoretical model.&lt;/p&gt;
-
-&lt;h1 id=&#34;while-both-case-studies-provide-supporting-evidence-for-this-they-also-uncover-that-the-causal-pathways-linking-leadership-divisions-to-rebel-violence-can-substantially-differ-from-each-other-moreover-the-qualitative-analysis-reveals-that-the-theoretical-model-only-partly-captures-the-causal-pathways-between-rebel-ideology-and-the-rebel-groups-population-base-and-the-level-of-one-sided-violence&#34;&gt;While both case studies provide supporting evidence for this, they also uncover that the causal pathways linking leadership divisions to rebel violence can substantially differ from each other. Moreover, the qualitative analysis reveals that the theoretical model only partly captures the causal pathways between rebel ideology and the rebel groups&amp;rsquo; population base and the level of one-sided violence.&lt;/h1&gt;
-
-&lt;h1 id=&#34;the-analysis-reveals-that-the-occurrence-of-leadership-divisions-increases-the-probability-of-an-onset-of-rebel-violence-against-civilians-i-also-find-that-ethno-nationalist-rebel-groups-kill-fewer-civilians-while-rebel-groups-who-draw-support-from-highly-fractionalised-population-bases-kill-more-civilians&#34;&gt;The analysis reveals that the occurrence of leadership divisions increases the probability of an onset of rebel violence against civilians. I also find that ethno-nationalist rebel groups kill fewer civilians while rebel groups who draw support from highly fractionalised population bases kill more civilians.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Power-Sharing Event Dataset (PSED)</title>
-      <link>/project/psed/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/project/psed/</guid>
-      <description>&lt;p&gt;The Power-Sharing Event Dataset (PSED) contains information on the promises and practices of power-sharing between governments and rebels for a five-year period after the conclusion of a peace agreement (unless violence recurred earlier). The main features of this dataset are the specific focus on government-rebel dyads during post-conflict periods, an exact temporal mapping of implemented or abolished power-sharing events, and detailed descriptions for each power-sharing arrangement put into practice. This codebook describes the definitions of core concepts and operationalization of variables in this data collection. It also presents the PSED coding procedure. An explanation of the theoretical impetus behind the PSED as well as an in-depth discussion of its concepts can be found in the PSED data feature in Conflict Management and Peace Science (Ottmann and Vüllers 2014).&lt;/p&gt;
-
-&lt;p&gt;This project was funded by a research grant of the German Research Foundation. Collaborators are Andreas Mehler and Johannes Vüllers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Political Economy of Power-Sharing</title>
       <link>/project/peps/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
@@ -343,11 +315,39 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Power-Sharing Event Dataset (PSED)</title>
+      <link>/project/psed/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/psed/</guid>
+      <description>&lt;p&gt;The Power-Sharing Event Dataset (PSED) contains information on the promises and practices of power-sharing between governments and rebels for a five-year period after the conclusion of a peace agreement (unless violence recurred earlier). The main features of this dataset are the specific focus on government-rebel dyads during post-conflict periods, an exact temporal mapping of implemented or abolished power-sharing events, and detailed descriptions for each power-sharing arrangement put into practice. This codebook describes the definitions of core concepts and operationalization of variables in this data collection. It also presents the PSED coding procedure. An explanation of the theoretical impetus behind the PSED as well as an in-depth discussion of its concepts can be found in the PSED data feature in Conflict Management and Peace Science (Ottmann and Vüllers 2014).&lt;/p&gt;
+
+&lt;p&gt;This project was funded by a research grant of the German Research Foundation. Collaborators are Andreas Mehler and Johannes Vüllers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Event Dataset (PSED)</title>
       <link>/publication/psed-data/</link>
       <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/psed-data/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Rebel Organization and Violence Against Civilians</title>
+      <link>/project/violence-against-civilians/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/project/violence-against-civilians/</guid>
+      <description>
+
+&lt;p&gt;This has been my PhD project which I completed in 2012 at the University of Nottingham. In my thesis, I examine the relationship between rebel organisation and violence against civilians in sub-Saharan Africa. I argue that rebels use such one-sided violence to enforce popular support when they are unable to secure support otherwise. An important determinant of this strategic use of violence is the rebels&amp;rsquo; organisational configuration. Organisational factors such as the ideology of a rebel group, the occurrence of leadership divisions, the level of fractionalisation within a rebel group&amp;rsquo;s population base, the existence of external support and the number of competing rebel factions determine whether non-violent strategies to secure support are available or whether rebels can only rely on violent means to enforce support. I test this theoretical model using both quantitative and qualitative methods. I conduct a statistical cross-sectional study analysing the relationship between rebel organisation and rebel one-sided violence in sub-Sahara Africa between 1989 and 2007. I also use qualitative within-case analyses of the Sudan People&amp;rsquo;s Liberation Movement/Army (SPLM/A) and the Sudan Liberation Movement/Army (SLM/A) to test whether these correlations are actually driven by the causal pathways outlined in my theoretical model.&lt;/p&gt;
+
+&lt;h1 id=&#34;while-both-case-studies-provide-supporting-evidence-for-this-they-also-uncover-that-the-causal-pathways-linking-leadership-divisions-to-rebel-violence-can-substantially-differ-from-each-other-moreover-the-qualitative-analysis-reveals-that-the-theoretical-model-only-partly-captures-the-causal-pathways-between-rebel-ideology-and-the-rebel-groups-population-base-and-the-level-of-one-sided-violence&#34;&gt;While both case studies provide supporting evidence for this, they also uncover that the causal pathways linking leadership divisions to rebel violence can substantially differ from each other. Moreover, the qualitative analysis reveals that the theoretical model only partly captures the causal pathways between rebel ideology and the rebel groups&amp;rsquo; population base and the level of one-sided violence.&lt;/h1&gt;
+
+&lt;h1 id=&#34;the-analysis-reveals-that-the-occurrence-of-leadership-divisions-increases-the-probability-of-an-onset-of-rebel-violence-against-civilians-i-also-find-that-ethno-nationalist-rebel-groups-kill-fewer-civilians-while-rebel-groups-who-draw-support-from-highly-fractionalised-population-bases-kill-more-civilians&#34;&gt;The analysis reveals that the occurrence of leadership divisions increases the probability of an onset of rebel violence against civilians. I also find that ethno-nationalist rebel groups kill fewer civilians while rebel groups who draw support from highly fractionalised population bases kill more civilians.&lt;/h1&gt;
+</description>
     </item>
     
   </channel>
