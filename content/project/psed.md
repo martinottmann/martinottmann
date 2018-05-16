@@ -9,7 +9,7 @@ title = "Power-Sharing Event Dataset (PSED)"
 summary = "Measuring the promises and practices of power-sharing after civil war."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Suda presentation.jpg"
+image_preview = "psed-preview.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,9 +22,9 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption :smile:"
+[header]
+image = "headers/psed-header.jpg"
+caption = "Photo: South Sudan (Steve Evans)"
 
 +++
 

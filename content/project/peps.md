@@ -9,7 +9,7 @@ title = "The Political Economy of Power-Sharing"
 summary = "How does power-sharing affect resource redistribution after civil war?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "corruption road sign Rwanda-Uganda border Fred Inklaar.jpg"
+image_preview = "peps-preview.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/image.jpg"
-caption = "My caption :smile:"
+image = "headers/peps-header.jpg"
+caption = "Photo: Corruption undermines your integrity - sweep it away! (Fred Inklaar)"
 
 +++
 
