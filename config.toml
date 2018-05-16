@@ -279,9 +279,14 @@ enableGitInfo = false
   url = "#teaching"
   weight = 4
 
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 5
+
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "CV"
+  url = "files/Ottmann_CV.pdf"
   weight = 5
 
 [[menu.main]]
