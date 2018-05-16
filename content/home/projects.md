@@ -33,12 +33,35 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Violence Against Civilians"
+  tag = ".violence-against-civilians"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Rebel Organization"
+  tag = ".rebel-organization"
+
+[[filter]]
+  name = "Civil War"
+  tag = ".civil-war"
+
+[[filter]]
+  name = "Africa"
+  tag = ".africa"
+
+[[filter]]
+  name = "PSED"
+  tag = ".psed"
+
+[[filter]]
+  name = "Data Collection"
+  tag = ".data-collect"
+
+[[filter]]
+  name = "Power-Sharing"
+  tag = ".power-sharing"
+
+[[filter]]
+  name = "Political Economy"
+  tag = ".political-economy"
 
 +++
-

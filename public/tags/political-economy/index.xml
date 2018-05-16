@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political Economy on Dr. Martin Ottmann</title>
+    <link>/tags/political-economy/</link>
+    <description>Recent content in Political Economy on Dr. Martin Ottmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/political-economy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Political Economy of Power-Sharing</title>
+      <link>/project/peps/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/peps/</guid>
+      <description>How does power-sharing affect resource allocation between elites and constituencies in post-conflict situations? The question if and how power-sharing arrangements between a state government and former rebel groups actually change the distribution and exercise of political power in a post-conflict situation is rarely investigated. In this project, we argue that the type of power-sharing affects sub-national resource allocation patterns. Power-sharing provides an opportunity for former conflict actors to access state resources and distribute those resources strategically to their constituencies.</description>
+    </item>
+    
+  </channel>
+</rss>

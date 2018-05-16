@@ -9,11 +9,11 @@ title = "Power-Sharing Event Dataset (PSED)"
 summary = "Measuring the promises and practices of power-sharing after civil war."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "Suda presentation.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["psed"]
+tags = ["PSED", "Civil War", "Data Collection", "Power-Sharing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -22,9 +22,9 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 

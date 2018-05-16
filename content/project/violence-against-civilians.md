@@ -9,11 +9,11 @@ title = "Rebel Organization and Violence Against Civilians"
 summary = "How does the organization of rebel groups shape civilian victimization in internal armed conflicts?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "People fleeing fighting in Eastern DRC_Marie Cacace_Oxfam.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["violence-against-civilians"]
+tags = ["Violence Against Civilians", "Rebel Organization", "Civil War", "Africa"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/twitter-In-Stream_Wide___8328853653_200445e611_o.jpg"
 caption = "My caption :smile:"
 
 +++

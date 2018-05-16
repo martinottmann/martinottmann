@@ -22,11 +22,38 @@
     </item>
     
     <item>
-      <title>Peps</title>
-      <link>/tags/peps/</link>
+      <title>Africa</title>
+      <link>/tags/africa/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civil War</title>
+      <link>/tags/civil-war/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/peps/</guid>
+      <guid>/tags/civil-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Collection</title>
+      <link>/tags/data-collection/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSED</title>
+      <link>/tags/psed/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/psed/</guid>
       <description></description>
     </item>
     
@@ -40,11 +67,20 @@
     </item>
     
     <item>
-      <title>Psed</title>
-      <link>/tags/psed/</link>
-      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      <title>Political Economy</title>
+      <link>/tags/political-economy/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/psed/</guid>
+      <guid>/tags/political-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing</title>
+      <link>/tags/power-sharing/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/power-sharing/</guid>
       <description></description>
     </item>
     
@@ -58,6 +94,15 @@
     </item>
     
     <item>
+      <title>Rebel Organization</title>
+      <link>/tags/rebel-organization/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rebel-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -67,7 +112,7 @@
     </item>
     
     <item>
-      <title>Violence-against-civilians</title>
+      <title>Violence Against Civilians</title>
       <link>/tags/violence-against-civilians/</link>
       <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
       

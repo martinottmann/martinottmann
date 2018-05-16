@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civil War on Dr. Martin Ottmann</title>
+    <link>/tags/civil-war/</link>
+    <description>Recent content in Civil War on Dr. Martin Ottmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/civil-war/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Political Economy of Power-Sharing</title>
+      <link>/project/peps/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/peps/</guid>
+      <description>How does power-sharing affect resource allocation between elites and constituencies in post-conflict situations? The question if and how power-sharing arrangements between a state government and former rebel groups actually change the distribution and exercise of political power in a post-conflict situation is rarely investigated. In this project, we argue that the type of power-sharing affects sub-national resource allocation patterns. Power-sharing provides an opportunity for former conflict actors to access state resources and distribute those resources strategically to their constituencies.</description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Event Dataset (PSED)</title>
+      <link>/project/psed/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/psed/</guid>
+      <description>The Power-Sharing Event Dataset (PSED) contains information on the promises and practices of power-sharing between governments and rebels for a five-year period after the conclusion of a peace agreement (unless violence recurred earlier). The main features of this dataset are the specific focus on government-rebel dyads during post-conflict periods, an exact temporal mapping of implemented or abolished power-sharing events, and detailed descriptions for each power-sharing arrangement put into practice. This codebook describes the definitions of core concepts and operationalization of variables in this data collection.</description>
+    </item>
+    
+    <item>
+      <title>Rebel Organization and Violence Against Civilians</title>
+      <link>/project/violence-against-civilians/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/project/violence-against-civilians/</guid>
+      <description>This has been my PhD project which I completed in 2012 at the University of Nottingham. In my thesis, I examine the relationship between rebel organisation and violence against civilians in sub-Saharan Africa. I argue that rebels use such one-sided violence to enforce popular support when they are unable to secure support otherwise. An important determinant of this strategic use of violence is the rebels&amp;rsquo; organisational configuration. Organisational factors such as the ideology of a rebel group, the occurrence of leadership divisions, the level of fractionalisation within a rebel group&amp;rsquo;s population base, the existence of external support and the number of competing rebel factions determine whether non-violent strategies to secure support are available or whether rebels can only rely on violent means to enforce support.</description>
+    </item>
+    
+  </channel>
+</rss>
