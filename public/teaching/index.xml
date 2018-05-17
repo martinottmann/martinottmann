@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Dr. Martin Ottmann</title>
+    <link>/teaching/</link>
+    <description>Recent content in Teaching on Dr. Martin Ottmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Causal Inference</title>
+      <link>/teaching/inference/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/inference/</guid>
+      <description>Content coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Previous Courses</title>
+      <link>/teaching/previous-courses/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/previous-courses/</guid>
+      <description>Previous courses:
+ Post-Conflict Reconstruction and Development (MA, University of Birmingham, Spring 2017) Conflict in Developing Countries (MA, University of Birmingham, 2016) Rebel Governance in Civil Wars (BA, University of Hamburg, 2015) Power-Sharing in Post-Conflict Situations (BA, University of Hamburg, 2013) Global Security (BA, University of Nottingham, 2011) Understanding Global Politics (BA, University of Nottingham, 2011) Problems in Global Politics (BA, University of Nottingham, 2011)  </description>
+    </item>
+    
+    <item>
+      <title>Research Design, Practice and Ethics</title>
+      <link>/teaching/rdpe/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/rdpe/</guid>
+      <description>Content coming soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

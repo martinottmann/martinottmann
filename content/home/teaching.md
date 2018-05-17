@@ -11,23 +11,13 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
 
-I have taught classes at the University of Birmingham, University of Hamburg, and University of Nottingham. My current teaching is focused on peace and conflict studies and social science research methods.
+My current teaching is focused on social science research methods:
 
-Current courses:
+- [Research Design, Practice and Ethics](teaching/rdpe) (PhD, University of Birmingham)
+- [Introduction to Causal Inference](teaching/inference) (PhD, University of Birmingham)
 
-- Research Design, Practice and Ethics (PhD, University of Birmingham)
-- Introduction to Causal Inference (PhD, University of Birmingham)
-
-Previous courses:
-
-- Post-Conflict Reconstruction and Development (MA, University of Birmingham, Spring 2017)
-- Conflict in Developing Countries (MA, University of Birmingham, 2016)
-- Rebel Governance in Civil Wars (BA, University of Hamburg, 2015)
-- Power-Sharing in Post-Conflict Situations (BA, University of Hamburg, 2013)
-- Global Security (BA, University of Nottingham, 2011)
-- Understanding Global Politics (BA, University of Nottingham, 2011)
-- Problems in Global Politics (BA, University of Nottingham, 2011)
+I have also taught classes at the University of Hamburg and University of Nottingham. Please see here for a list of my [previous courses](teaching/previous-courses). 
