@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Dr. Martin Ottmann</title>
+    <link>/publication_types/6/</link>
+    <description>Recent content in 6 on Dr. Martin Ottmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Government-Rebel Relations in the Wake of Power-Sharing Peace Agreements</title>
+      <link>/publication/power-relations/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/power-relations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

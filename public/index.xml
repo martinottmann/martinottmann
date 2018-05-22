@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Government-Rebel Relations in the Wake of Power-Sharing Peace Agreements</title>
+      <link>/publication/power-relations/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/power-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Political Economy of Power-Sharing</title>
       <link>/project/peps/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
@@ -372,16 +381,6 @@ Figure 1: A fancy pie chart.
       
       <guid>/publication/psed-data/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Rebel Organization and Violence Against Civilians</title>
-      <link>/project/violence-against-civilians/</link>
-      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/project/violence-against-civilians/</guid>
-      <description>&lt;p&gt;This has been my PhD project which I completed in 2012 at the University of Nottingham. In my thesis, I examine the relationship between rebel organisation and violence against civilians in sub-Saharan Africa. I argue that rebels use such one-sided violence to enforce popular support when they are unable to secure support otherwise. An important determinant of this strategic use of violence is the rebels&amp;rsquo; organisational configuration. Organisational factors such as the ideology of a rebel group, the occurrence of leadership divisions, the level of fractionalisation within a rebel group&amp;rsquo;s population base, the existence of external support and the number of competing rebel factions determine whether non-violent strategies to secure support are available or whether rebels can only rely on violent means to enforce support. I test this theoretical model using both quantitative and qualitative methods. I conduct a statistical cross-sectional study analysing the relationship between rebel organisation and rebel one-sided violence in sub-Sahara Africa between 1989 and 2007. I also use qualitative within-case analyses of the Sudan People&amp;rsquo;s Liberation Movement/Army (SPLM/A) and the Sudan Liberation Movement/Army (SLM/A) to test whether these correlations are actually driven by the causal pathways outlined in my theoretical model.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
