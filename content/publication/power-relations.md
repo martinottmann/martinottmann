@@ -1,6 +1,6 @@
 +++
 title = "Government-Rebel Relations in the Wake of Power-Sharing Peace Agreements"
-date = 2019-03-31T00:00:00
+date = 2018-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M Ottmann", "J Vüllers"]

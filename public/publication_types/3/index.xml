@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does Peace Trickle Down? Micro-Level Evidence from Africa</title>
+      <link>/publication/afropeps/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/afropeps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Compromised Peace? The Effect of Power-Sharing Arrangements on Post-War Violence</title>
@@ -18,15 +27,6 @@
       <pubDate>Tue, 08 May 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/post-war-violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does Peace Trickle Down? Micro-Level Evidence from Africa</title>
-      <link>/publication/afropeps/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/afropeps/</guid>
       <description></description>
     </item>
     
