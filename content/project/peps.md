@@ -13,7 +13,7 @@ image_preview = "peps-preview.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["PSED", "Civil War", "Political Economy", "Power-Sharing"]
+tags = ["psed", "power-sharing", "post-conflict-development", "peace"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

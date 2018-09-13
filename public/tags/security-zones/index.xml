@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security-zones on Dr. Martin Ottmann</title>
+    <link>/tags/security-zones/</link>
+    <description>Recent content in Security-zones on Dr. Martin Ottmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/security-zones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UN Security Zones and Development</title>
+      <link>/project/security-zones-and-development/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/security-zones-and-development/</guid>
+      <description>Every international intervention comes with its own security regulations, which contribute in turn to structure the political geography of the intervention, delimiting areas of interaction between interveners and local population and shaping the political economy of intervention. We argue that these security regulations can have a substantial impact on the political and economic development of post-conflict/post-disaster countries.
+This project will commence in September 2019 in collaboration with Nicolas Lemay-Hébert and David Hudson.</description>
+    </item>
+    
+  </channel>
+</rss>

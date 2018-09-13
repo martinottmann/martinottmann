@@ -41,8 +41,8 @@ filter_default = 0
   tag = ".rebel-organization"
 
 [[filter]]
-  name = "Civil War"
-  tag = ".civil-war"
+  name = "Peace"
+  tag = ".peace"
 
 [[filter]]
   name = "Africa"
@@ -54,14 +54,18 @@ filter_default = 0
 
 [[filter]]
   name = "Data Collection"
-  tag = ".data-collect"
+  tag = ".data-collection"
+
+[[filter]]
+  name = "Security Zones"
+  tag = ".security-zones"
+
+[[filter]]
+  name = "Post-Conflict Development"
+  tag = ".post-conflict-development"
 
 [[filter]]
   name = "Power-Sharing"
   tag = ".power-sharing"
-
-[[filter]]
-  name = "Political Economy"
-  tag = ".political-economy"
 
 +++

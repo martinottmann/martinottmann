@@ -5,6 +5,51 @@
     
     <url>
     
+      <loc>/teaching/inference/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/micro-level-peace/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/rdpe/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/security-zones-and-development/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/micro-level-peace-birmingham-workshop/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/afropeps/</loc>
       <lastmod>2018-05-21T00:00:00+01:00</lastmod>
     </url>
@@ -41,25 +86,7 @@
     
     <url>
     
-      <loc>/teaching/inference/</loc>
-      <lastmod>2018-04-03T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/teaching/previous-courses/</loc>
-      <lastmod>2018-04-03T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/rdpe/</loc>
       <lastmod>2018-04-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -133,24 +160,6 @@
     
       <loc>/teaching/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -253,16 +262,6 @@
     
     <url>
     
-      <loc>/tags/civil-war/</loc>
-      <lastmod>2018-05-14T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/data-collection/</loc>
       <lastmod>2015-03-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -283,8 +282,8 @@
     
     <url>
     
-      <loc>/tags/psed/</loc>
-      <lastmod>2018-05-14T00:00:00+01:00</lastmod>
+      <loc>/tags/peace/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -293,18 +292,8 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/political-economy/</loc>
-      <lastmod>2018-05-14T00:00:00+01:00</lastmod>
+      <loc>/tags/post-conflict-development/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -314,7 +303,7 @@
     <url>
     
       <loc>/tags/power-sharing/</loc>
-      <lastmod>2018-05-14T00:00:00+01:00</lastmod>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -324,6 +313,16 @@
     <url>
     
       <loc>/project/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/psed/</loc>
       <lastmod>2018-05-14T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -343,28 +342,8 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/rebel-organization/</loc>
-      <lastmod>2012-01-15T00:00:00+00:00</lastmod>
+      <lastmod>2015-03-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -373,8 +352,8 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/security-zones/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

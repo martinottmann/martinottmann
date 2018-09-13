@@ -13,7 +13,7 @@ image_preview = "thesis-preview.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Violence Against Civilians", "Rebel Organization", "Civil War", "Africa"]
+tags = ["violence-against-civilians", "rebel-organization", "africa", "data-collection"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/thesis-header.jpg"
+image = "headers/thesis-header2.jpg"
 caption = "Photo: People fleeing fighting in Eastern Democratic Republic of Congo (Oxfam International)"
 
 +++

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rebel Organization on Dr. Martin Ottmann</title>
+    <title>Rebel-organization on Dr. Martin Ottmann</title>
     <link>/tags/rebel-organization/</link>
-    <description>Recent content in Rebel Organization on Dr. Martin Ottmann</description>
+    <description>Recent content in Rebel-organization on Dr. Martin Ottmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/rebel-organization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Power-Sharing Event Dataset (PSED)</title>
+      <link>/project/psed/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/psed/</guid>
+      <description>The Power-Sharing Event Dataset (PSED) contains information on the promises and practices of power-sharing between governments and rebels for a five-year period after the conclusion of a peace agreement (unless violence recurred earlier). The main features of this dataset are the specific focus on government-rebel dyads during post-conflict periods, an exact temporal mapping of implemented or abolished power-sharing events, and detailed descriptions for each power-sharing arrangement put into practice. This codebook describes the definitions of core concepts and operationalization of variables in this data collection.</description>
+    </item>
     
     <item>
       <title>Rebel Organization and Violence Against Civilians</title>

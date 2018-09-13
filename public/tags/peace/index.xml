@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peace on Dr. Martin Ottmann</title>
+    <link>/tags/peace/</link>
+    <description>Recent content in Peace on Dr. Martin Ottmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/peace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Micro-Level Perspectives on Peace</title>
+      <link>/project/micro-level-peace/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/micro-level-peace/</guid>
+      <description>While macro-level analyses have greatly contributed to our understanding of post-conflict peacebuilding, a macro-only approach entails serious shortcomings. These include a potential mismatch between theoretical mechanisms and empirical data, and a failure to take into account the attitudes of citizens towards peace, problems that may mean only superficially relevant knowledge is produced for practitioners. Addressing this issue, we take up the idea of the &amp;lsquo;micro-level&amp;rsquo; as a conceptual and empirical distinction that breaks up the territorial state or dyads as levels of analysis in favor of lower-level units of analysis, such as individuals, sub-groups, or geographical regions.</description>
+    </item>
+    
+    <item>
+      <title>Workshop on &#39;Micro-Level Perspectives on Peace&#39;</title>
+      <link>/post/micro-level-peace-birmingham-workshop/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/post/micro-level-peace-birmingham-workshop/</guid>
+      <description>How can peace best be promoted following civil war? The transition from violent internal conflict to peace arguably is one of the most difficult challenges a society can face. Although a small number of countries has managed to prevent renewed civil war, others are often caught in &amp;lsquo;conflict traps&amp;rsquo;. Of those countries that have managed to prevent a relapse into full-scale war, many are characterized by high violent crime rates, illicit economies, corruption, violent protests, or simmering non-state conflicts between armed militias in the periphery, rendering the &amp;lsquo;quality&amp;rsquo; of the post-conflict peace poor, at best.</description>
+    </item>
+    
+    <item>
+      <title>The Political Economy of Power-Sharing</title>
+      <link>/project/peps/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/peps/</guid>
+      <description>How does power-sharing affect resource allocation between elites and constituencies in post-conflict situations? The question if and how power-sharing arrangements between a state government and former rebel groups actually change the distribution and exercise of political power in a post-conflict situation is rarely investigated. In this project, we argue that the type of power-sharing affects sub-national resource allocation patterns. Power-sharing provides an opportunity for former conflict actors to access state resources and distribute those resources strategically to their constituencies.</description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Event Dataset (PSED)</title>
+      <link>/project/psed/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/psed/</guid>
+      <description>The Power-Sharing Event Dataset (PSED) contains information on the promises and practices of power-sharing between governments and rebels for a five-year period after the conclusion of a peace agreement (unless violence recurred earlier). The main features of this dataset are the specific focus on government-rebel dyads during post-conflict periods, an exact temporal mapping of implemented or abolished power-sharing events, and detailed descriptions for each power-sharing arrangement put into practice. This codebook describes the definitions of core concepts and operationalization of variables in this data collection.</description>
+    </item>
+    
+  </channel>
+</rss>

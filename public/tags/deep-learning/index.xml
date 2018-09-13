@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Political Economy of Power-Sharing</title>
-      <link>/project/peps/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/peps/</guid>
-      <description>How does power-sharing affect resource allocation between elites and constituencies in post-conflict situations? The question if and how power-sharing arrangements between a state government and former rebel groups actually change the distribution and exercise of political power in a post-conflict situation is rarely investigated. In this project, we argue that the type of power-sharing affects sub-national resource allocation patterns. Power-sharing provides an opportunity for former conflict actors to access state resources and distribute those resources strategically to their constituencies.</description>
+      <guid>/project/deep-learning/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
   </channel>

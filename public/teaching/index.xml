@@ -15,10 +15,21 @@
     <item>
       <title>Introduction to Causal Inference</title>
       <link>/teaching/inference/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/inference/</guid>
-      <description>Content coming soon&amp;hellip;</description>
+      <description>Causality plays an essential role in the social sciences whenever we wish to find out whether a particular intervention actually changes an outcome of interest. However, causality is difficult to study. It has long been known in the social sciences that correlation does not imply causation. Especially when working with observational data, researchers miss crucial information for making causal interpretations of statistical associations.
+This module explores research designs and modern methods of causal inference for statistical research.</description>
+    </item>
+    
+    <item>
+      <title>Research Design, Practice and Ethics</title>
+      <link>/teaching/rdpe/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/rdpe/</guid>
+      <description>The module will introduce students to the concepts and varieties of social science research designs. Research design consists of choices necessary to transform a research question into actual research. These choices relate to strategies and modes of case selection, data collection and modes of analysis, and they pertain equally to qualitative, quantitative and mixed-methods studies.
+Every research question can be elaborated in different ways; none of these will be ideal in all respects, so that design choices have implications in terms of costs and benefits.</description>
     </item>
     
     <item>
@@ -29,15 +40,6 @@
       <guid>/teaching/previous-courses/</guid>
       <description>Previous courses:
  Post-Conflict Reconstruction and Development (MA, University of Birmingham, Spring 2017) Conflict in Developing Countries (MA, University of Birmingham, 2016) Rebel Governance in Civil Wars (BA, University of Hamburg, 2015) Power-Sharing in Post-Conflict Situations (BA, University of Hamburg, 2013) Global Security (BA, University of Nottingham, 2011) Understanding Global Politics (BA, University of Nottingham, 2011) Problems in Global Politics (BA, University of Nottingham, 2011)  </description>
-    </item>
-    
-    <item>
-      <title>Research Design, Practice and Ethics</title>
-      <link>/teaching/rdpe/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/teaching/rdpe/</guid>
-      <description>Content coming soon&amp;hellip;</description>
     </item>
     
   </channel>

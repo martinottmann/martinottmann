@@ -31,16 +31,7 @@
     </item>
     
     <item>
-      <title>Civil War</title>
-      <link>/tags/civil-war/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/civil-war/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Collection</title>
+      <title>Data-collection</title>
       <link>/tags/data-collection/</link>
       <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
       
@@ -49,7 +40,34 @@
     </item>
     
     <item>
-      <title>PSED</title>
+      <title>Peace</title>
+      <link>/tags/peace/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/peace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-conflict-development</title>
+      <link>/tags/post-conflict-development/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/post-conflict-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-sharing</title>
+      <link>/tags/power-sharing/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/power-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psed</title>
       <link>/tags/psed/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
       
@@ -58,61 +76,25 @@
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political Economy</title>
-      <link>/tags/political-economy/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/political-economy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power-Sharing</title>
-      <link>/tags/power-sharing/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/power-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rebel Organization</title>
+      <title>Rebel-organization</title>
       <link>/tags/rebel-organization/</link>
-      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/rebel-organization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Security-zones</title>
+      <link>/tags/security-zones/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/tags/security-zones/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Violence Against Civilians</title>
+      <title>Violence-against-civilians</title>
       <link>/tags/violence-against-civilians/</link>
       <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
       
