@@ -6,7 +6,7 @@ date = 2018-09-13T00:00:00
 title = "Micro-Level Perspectives on Peace"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "How can peace best be promoted following civil war?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "micro-level-peace1.jpg"
