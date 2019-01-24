@@ -1,6 +1,6 @@
 +++
 title = "Government-Rebel Relations in the Wake of Power-Sharing Peace Agreements"
-date = 2018-05-01T00:00:00
+date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M Ottmann", "J Vüllers"]
@@ -17,7 +17,7 @@ authors = ["M Ottmann", "J Vüllers"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In: Hartzell, Caroline / Mehler, Andreas (eds.) *Power-Sharing and Power Relations*, Boulder, CO: Lynne Rienner"
+publication = "In: Hartzell, Caroline / Mehler, Andreas (eds.) *Power-Sharing and Power Relations After Civil War*, Boulder, CO: Lynne Rienner"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

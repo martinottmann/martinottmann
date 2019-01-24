@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/power-relations/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/inference/</loc>
       <lastmod>2018-09-13T00:00:00+01:00</lastmod>
     </url>
@@ -70,15 +79,6 @@
     
       <loc>/publication/post-war-violence/</loc>
       <lastmod>2018-05-08T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/power-relations/</loc>
-      <lastmod>2018-05-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -234,7 +234,7 @@
     <url>
     
       <loc>/publication_types/6/</loc>
-      <lastmod>2018-05-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
