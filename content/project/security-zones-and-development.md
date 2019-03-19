@@ -3,17 +3,17 @@
 date = 2018-09-13T00:00:00
 
 # Project title.
-title = "UN Security Zones and the Social Geography of Port-au-Prince"
+title = "UN Security Zones in Port-au-Prince"
 
 # Project summary to display on homepage.
-summary = "What is the effect of UN security zones on political and economic development?"
+summary = "What is the effect of security zones on political and economic development?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "security-zone.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["post-conflict-development", "security-zones"]
+tags = ["post-conflict-development", "peace"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

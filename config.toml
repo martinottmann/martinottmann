@@ -64,9 +64,9 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "m.ottmann@bham.ac.uk"
-  address = "Room 1136, Muirhead Tower, University of Birmingham, Birmingham, B15 2TT, United Kingdom"
+  address = "Muirhead Tower, University of Birmingham, Birmingham, B15 2TT, United Kingdom"
   office_hours = "Email for appointment"
-  phone = "+44 (0)121 415 1076"
+  #phone = "+44 (0)121 415 1076"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""

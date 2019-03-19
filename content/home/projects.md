@@ -33,32 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Violence Against Civilians"
-  tag = ".violence-against-civilians"
-
-[[filter]]
-  name = "Rebel Organization"
-  tag = ".rebel-organization"
-
-[[filter]]
   name = "Peace"
   tag = ".peace"
-
-[[filter]]
-  name = "Africa"
-  tag = ".africa"
-
-[[filter]]
-  name = "PSED"
-  tag = ".psed"
-
-[[filter]]
-  name = "Data Collection"
-  tag = ".data-collection"
-
-[[filter]]
-  name = "Security Zones"
-  tag = ".security-zones"
 
 [[filter]]
   name = "Post-Conflict Development"
@@ -67,5 +43,14 @@ filter_default = 0
 [[filter]]
   name = "Power-Sharing"
   tag = ".power-sharing"
+
+
+[[filter]]
+  name = "PSED"
+  tag = ".psed"
+  
+[[filter]]
+  name = "Violence Against Civilians"
+  tag = ".violence-against-civilians"
 
 +++
