@@ -26,15 +26,11 @@ weight = 5
 #  course = "Diplom (Univ.) in Political Science"
 #  institution = "Free University of Berlin"
 #  year = 2007
-
-# I am a Birmingham Fellow in International Security at the University of Birmingham. Recent work has appeared in Conflict Management & Peace Science and World Development.
  
 +++
 
 # About me
 
-I work on the political economy of post-conflict institutions and development. My objective is to understand when and under what conditions peace emerges after civil war.
+I work on post-conflict power-sharing and the political economy of civil war and development. My objective is to understand the effects of conflict resolution efforts and post-conflict reconstruction on political order and society. Ongoing projects explore resource redistribution, political trust, and contentious politics after civil war. 
 
-Ongoing projects explore the redistributive effects of power-sharing and the role of citizens in peace processes. Focusing on design-based inference, I rely on the combination of advanced statistical research methods and qualitative field research.
-
-I am also one of the coordinators of the [Citizens in Peace Processes (CIPP)](https://sites.google.com/view/citizensinpeaceprocesses/) research network.
+I also coordinate the [Citizens in Peace Processes (CIPP)](https://sites.google.com/view/citizensinpeaceprocesses/) research network. This network advances our understanding of the role citizens play in shaping the potential for and nature of the peace following civil wars. It facilitates scholarship and knowledge exchange to inform practitioners supporting citizen engagement in peace processes.

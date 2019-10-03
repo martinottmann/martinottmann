@@ -1,5 +1,5 @@
 +++
-title = "Does Peace Trickle Down? Micro-Level Evidence from Africa"
+title = "Does Peace Trickle Down? Micro-Level Evidence from West Africa"
 date = 2018-05-21T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

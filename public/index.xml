@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Peace for Our Time? Examining the Effect of Power-Sharing on Post-War Rebellions</title>
+      <link>/publication/peace-for-our-time/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/peace-for-our-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebels, Revenue, and Redistribution: The Political Geography of Post-Conflict Power-Sharing in Africa</title>
+      <link>/publication/rebels-revenue-redistribution/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/rebels-revenue-redistribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Government-Rebel Relations in the Wake of Power-Sharing Peace Agreements</title>
       <link>/publication/power-relations/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -92,7 +110,7 @@
     </item>
     
     <item>
-      <title>Does Peace Trickle Down? Micro-Level Evidence from Africa</title>
+      <title>Does Peace Trickle Down? Micro-Level Evidence from West Africa</title>
       <link>/publication/afropeps/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0100</pubDate>
       
@@ -110,15 +128,6 @@
 
 &lt;p&gt;This project is funded by a research grant of the German Research Foundation. Collaborators are Andreas Mehler and Felix Haass.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Compromised Peace? The Effect of Power-Sharing Arrangements on Post-War Violence</title>
-      <link>/publication/post-war-violence/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/post-war-violence/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -176,18 +185,6 @@
       
       <guid>/publication/psed-data-feature/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Power-Sharing Event Dataset (PSED)</title>
-      <link>/project/psed/</link>
-      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/project/psed/</guid>
-      <description>&lt;p&gt;The Power-Sharing Event Dataset (PSED) contains information on the promises and practices of power-sharing between governments and rebels for a five-year period after the conclusion of a peace agreement (unless violence recurred earlier). The main features of this dataset are the specific focus on government-rebel dyads during post-conflict periods, an exact temporal mapping of implemented or abolished power-sharing events, and detailed descriptions for each power-sharing arrangement put into practice. This codebook describes the definitions of core concepts and operationalization of variables in this data collection. It also presents the PSED coding procedure. An explanation of the theoretical impetus behind the PSED as well as an in-depth discussion of its concepts can be found in the PSED data feature in Conflict Management and Peace Science (Ottmann and Vüllers 2014).&lt;/p&gt;
-
-&lt;p&gt;This project was funded by a research grant of the German Research Foundation. Collaborators are Andreas Mehler and Johannes Vüllers.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
